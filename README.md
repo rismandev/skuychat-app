@@ -2,6 +2,11 @@
 
 A Simple Chat App Flutter & Stream API.
 
+<img src="assets/images/skuychat-1.jpg" width="180" alt="Home"/>
+<img src="assets/images/skuychat-2.jpg" width="180" alt="Chat List"/>
+<img src="assets/images/skuychat-3.jpg" width="180" alt="Chat Message"/>
+<img src="assets/images/skuychat-4.jpg" width="180" alt="Type Message"/>
+
 First, You need this step to use Stream,
 
 1. Register Your account from getstream.io
